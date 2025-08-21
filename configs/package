@@ -1,5 +1,0 @@
-cd openwrt-IPQ60XX
-mkdir -p package/community
-cd package/community
-git clone https://github.com/vnt-dev/vnt
-git clone https://github.com/lmq8267/luci-app-vnt
