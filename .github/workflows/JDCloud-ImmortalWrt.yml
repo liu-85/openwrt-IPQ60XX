@@ -101,7 +101,7 @@ jobs:
   
     - name: Load Custom Configuration(加载自定义配置)
       run: |
-        chmod +x $Roc-SCRIPT
+        chmod +x $DIY-SCRIPT
         cd $OPENWRT_PATH
         $GITHUB_WORKSPACE/$DIY_SCRIPT
 
